@@ -12,7 +12,7 @@
 
 ## [개발환경 및 핵심기술]
 ```
- HTML, CSS, JavaScript, JSP, 순수Jdbc, Oracle, Eclipse, JAVA
+ HTML, CSS, JavaScript, JSP, DBeaver, Oracle, Eclipse, JAVA
 ```
 
 
